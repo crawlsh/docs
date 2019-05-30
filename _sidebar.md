@@ -1,10 +1,15 @@
 * [Home](/)
+* [SLA](/SLA)
+* [Privacy & GDPR Stuffs](/Privacy)
+* [Terms of Use](/Terms)
+
 * English Docs
 
     * [Spider Setting](en/Crawl)
     * [SDK](en/SDK)
     * [API](en/API)
     * [Pricing](en/Pricing)
+
 
 * 中文文档
 

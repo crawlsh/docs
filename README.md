@@ -1,4 +1,4 @@
-# Aparker
+# Crawl.sh
 
 > Yet another intelligent spider.
 
@@ -21,7 +21,7 @@ published information.
 
 
 After massive project practice and summaries, 
-Aparker, an easy, elegant, online spider, is refined 
+Crawl.sh, an easy, elegant, online spider, is refined 
 by Zwang Team. It could crawl any web page that 
 you could reach by your Chrome just by a few easy 
 button-clicking settings. 
@@ -38,23 +38,18 @@ NLP analysis.
 ## Cases
 * Searching  
     Searching system requires huge amount of data on internet.
-    With Aparker, you could define a searching system of a 
+    With Crawl.sh, you could define a searching system of a 
     specific website by crawling all of their pages! We would 
     handle the coding of searching.
     
 
 * Warning  
-    Searching system requires huge amount of data on internet.
-    With Aparker, you could define a searching system of a 
-    specific website by crawling all of their pages! We would 
-    handle the coding of searching.   
-    
+    We provide instant push notification. You could choose 
+    to be notified at the end of each epoch or even 
+    each time the webpage is crawled or changed (difference
+    identified between each epoch). With this, you could 
+    analyze in time and conduct a warning system.
 
-* Articles PDFs  
-    Searching system requires huge amount of data on internet.
-    With Aparker, you could define a searching system of a 
-    specific website by crawling all of their pages! We would 
-    handle the coding of searching.   
 
 For more information, you could take a look at 
 [API Docs](en/API)
